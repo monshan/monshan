@@ -1,21 +1,45 @@
-# Hi, 大家好, 안녕하세요! I'm Marika Shanahan 👩🏻‍💻
+# 👩🏻‍💻 Hi, 大家好, 안녕하세요! I'm Marika 
+
+Welcome to my GitHub profile!
 
 My pronouns are: __she/her/hers__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In 2018 I packed my life in a suitcase to move to China to follow my desire for mastery of the language and dive into the expat lifestyle. As an ESL Teacher (English as a Second Language) in Beijing, I equipped my students with functional language skills in a manner that was easily accessible and with respect to their educational goals. Despite cultural barriers, I utilized my own Mandarin language skills and self-advocacy to navigate a dramatically different working culture that brought together Chinese locals and multiple primarily English-speaking nationalities.
+I'm a __Software Engineer & Web Developer__ with a background in education and E-commerce. I'm passionate about connecting people across cultures and languages with code, that is while I'm not learning a new language myself. You can find out more about me and my projects below ⬇️
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since returning to the States with these foundations and transitioning into Web Merchandising, I became just as deeply interested and committed to software development as a career path. After 8 months as a full-time student at Turing School of Software and Design, I am confident in my problem-solving with multiple technologies (such as React, JavaScript, Cypress Testing, and Node.js) in a collaborative environment and am excited to see what great teams and projects I can contribute to.
+🀄︎&nbsp;&nbsp; 我是美国华裔，各位读者们也欢迎跟我用中文联系。
+
+## 🔗 Connect with Me 
+
+<a href="https://www.linkedin.com/in/marika-shanahan/">
+  <img align="center" src="https://user-images.githubusercontent.com/64919819/113643549-cbb9f580-963f-11eb-8311-90b22051f631.png"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:marikashanahan@gmail.com">
+  <img align="center" src="https://user-images.githubusercontent.com/64919819/113643567-d4aac700-963f-11eb-82e3-3b79ec3bd177.png"/>
+</a>
+
+## 🌟 My Best Technologies
+
+<div styles="display: flex">
+  <img alt="HTML5" align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="React" align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Material UI" align="center" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
+</div>
+
+<!-- ## 🌱 Technologies I'm learning -->
+
+
+
+## 📊 My Github Stats
 
 <a href="https://github.com/monshan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monshan&show_icons=true&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=monshan&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/monshan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monshan&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monshan&theme=react" />
 </a>
-<!-- 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->
 
 
 <!--
