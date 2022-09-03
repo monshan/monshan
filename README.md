@@ -6,8 +6,6 @@ My pronouns are: __she/her/hers__
 
 I'm a __Software Engineer & Web Developer__ with a background in education and E-commerce. I'm passionate about connecting people across cultures and languages with code, that is while I'm not learning a new language myself. You can find out more about me and my projects below ⬇️
 
-🀄︎&nbsp;&nbsp; 我是美国华裔，各位读者们也欢迎跟我用中文联系。
-
 ## 🔗 Connect with Me 
 
 <a href="https://www.linkedin.com/in/marika-shanahan/">
@@ -29,8 +27,6 @@ I'm a __Software Engineer & Web Developer__ with a background in education and E
 </div>
 
 <!-- ## 🌱 Technologies I'm learning -->
-
-
 
 ## 📊 My Github Stats
 
