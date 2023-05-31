@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 My pronouns are: __she/her/hers__
 
-I'm a __Software Engineer & Web Developer__ with a background in education and E-commerce. I'm passionate about connecting people across cultures and languages with code, that is while I'm not learning a new language myself. You can find out more about me and my projects below ⬇️
+I'm a __Software Engineer & Web Developer__ with a background in education and E-commerce. I'm passionate about connecting people across cultures and languages with code, that is, while I'm not learning a new language myself. You can find out more about me and my projects below ⬇️
 
 ## 🔗 Connect with Me 
 
