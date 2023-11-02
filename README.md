@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 My pronouns are: __she/her/hers__
 
-I'm a __Software Engineer & Web Developer__ with a background in education and E-commerce. I'm passionate about connecting people across cultures and languages with code, that is, while I'm not learning a new language myself. You can find out more about me and my projects below ⬇️
+I'm an experienced __Full Stack Software Engineer__ with a background in education and E-commerce. I'm passionate about connecting people across cultures and languages with code, that is, while I'm not learning a new language myself. You can find out more about me and my projects below ⬇️
 
 ## 🔗 Connect with Me 
 
@@ -25,18 +25,6 @@ I'm a __Software Engineer & Web Developer__ with a background in education and E
   <img alt="React" align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Material UI" align="center" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </div>
-
-<!-- ## 🌱 Technologies I'm learning -->
-
-## 📊 My Github Stats
-
-<a href="https://github.com/monshan/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=monshan&show_icons=true&theme=react" />
-</a>
-<a href="https://github.com/monshan/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monshan&theme=react" />
-</a>
-
 
 <!--
 **monshan/monshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
